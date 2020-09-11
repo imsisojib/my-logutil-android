@@ -1,7 +1,7 @@
 # my-logutil-android
 MyLogUtil project is a self-leanring project to learn how Android Library module work through dependency. And trying to learn documentation formationg.
 
-###Dependency
+### Dependency
 ***
 **Step 1.** Add the JitPack repository to your root build.gradle at the end of repositories:<br>
 
@@ -22,17 +22,17 @@ dependencies {
 	}
 ```
 
-###Usages
+### Usages
 Now it's only available for Debug mode in  `Java` code.
 ***
 >MyLogs.print("Hello World");
 
-###Output
+### Output
 Find the debug log with text `MY-LOGS` in your concole.
 ***
 >2020-09-11 13:50:55.295 29904-29904/com.imsisojib.mylogutil D/MY-LOGS: Hello World
 
-###License
+### License
 ***
 
 ```
