@@ -78,7 +78,7 @@ Now it's only available for Debug mode in  `Java` code.
 >MyLogs.print("Hello World");
 
 ### Output
-Find the debug log with text `MY-LOGS` in your concole.
+Find the debug log with text `MY-LOGS` in your console.
 ***
 >2020-09-11 13:50:55.295 29904-29904/com.imsisojib.mylogutil D/MY-LOGS: Hello World
 
