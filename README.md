@@ -36,7 +36,7 @@ public class MyLogs {
 
 **Step-9** Use the given dependency link in your existing project and then you can see **logs** of gradle build status. Make sure you get `Build Successful` status then share your module to others.
 
-**Lastly** You can add more module to your project and make their separate gradle dependency after creating new `release` for every time you add new mudule. You also add **Kotlin** version by adding **Kotlin Configuration** to your root level project or to each module. 
+**Lastly** You can add more module to your project and make their separate gradle dependency after creating new `release` for every time you add new mudule. You can also add **Kotlin** version by adding **Kotlin Configuration** to your root level project or to each module. 
 
 > Ctrl+Shit+A, will open up a search box. search for **Configure Kotlin in Project** , select and choose **Android with Gradle** then there you can apply kotlin for root level project or for single module which you like and `apply`.
 
