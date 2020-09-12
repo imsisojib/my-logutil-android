@@ -27,7 +27,9 @@ public class MyLogs {
 }
 ```
 **Step-5** Now create a repository in [Github](https://github.com/ "Github") and `push` your android sample project which you have created.
+
 **Step-6** Create a new `Release` for your github repository.
+
 **Step-7** Now copy your repository link and go to [JitPack.io](https://jitpack.io/ "jitpack.io") and paste your repository in `git repo url` box and click to `Look Up`.
 
 **Step-8** Hope there you will find your release version and select version to get the `Dependecy` implementation documentation. In my case i have added in below.
